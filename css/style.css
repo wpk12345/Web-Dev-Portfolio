@@ -184,6 +184,9 @@ body {
     width: 100%;
     object-fit: cover; }
 
+#submitBtn {
+  color: white; }
+
 .btn {
   /* pseudo elements allow us to style only certain parts of elements */
   /* a pseudo element essentially acts like a child element of the parent.  so if we say we want it to be 100% height, we want it to be 100% of the parent button */ }
@@ -929,7 +932,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/motherboard.jpg);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -10rem; }
