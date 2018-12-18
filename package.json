@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css"
   },
   "author": "William King",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.11.0"
   },
   "dependencies": {
-    "hoek": "^5.0.3"
+    "hoek": "^5.0.4"
   }
 }
